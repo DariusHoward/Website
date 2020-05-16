@@ -1,2 +1,3 @@
 # Website
-A simple website I will probably expand in the future
+This is just a website I am designing to practice my web development skills.
+It is still in progress I hope to be finished around 6/1/2020
